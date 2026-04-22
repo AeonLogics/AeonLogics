@@ -1,16 +1,14 @@
-## Hi there 👋
+# Asad Ali (Aeon Roamer is my  digital name lol... 😉)
 
-<!--
-**AeonLogics/AeonLogics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rust dev building full-stack stuff and terminal tools. No degree, just a lot of time spent wrestling with the borrow checker and Arch Linux.
 
-Here are some ideas to get you started:
+**Stack:**
+- Rust (mostly async/tokio)
+- Axum + Sea-ORM
+- Leptos + SCSS
+- RustRover (it's just better, lol)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**OSS stuff:**
+- Currently hacking on **Audium** (Ratatui music player). 
+
+I'm usually deep in the crates or fixing memory safety issues I created myself. If you have a weird Rust bug or need a system that actually scales, hit me up.
