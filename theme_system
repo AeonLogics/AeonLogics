@@ -1,0 +1,26 @@
+🎨 The "Neon Detective" UI Layer Breakdown
+To visualize how these five hex codes interact on a "paper" schematic layout, we can stack them by layer depth from the background up to the foreground text:
+Layer 1: The Canvas (Deepest)
+    Hex: #0B0813
+    Role: Base Background
+    Visual Impact: This covers the absolute lowest layer of your screen. It is an ultra-deep, near-black violet that acts like a dark room, allowing your neon accents to pop vibrantly without causing eye strain.
+
+Layer 2: The Structural Elements (Midground)
+    Hex: #161224
+    Role: Surface / Container
+    Visual Impact: Use this to draw your terminal boxes, sidebars, cards, or code editor window surfaces. It sits cleanly on top of the base background, providing just enough subtle contrast to separate your UI sections without needing bright borders.
+
+Layer 3: Typography (Foreground)
+    Hex: #EAE5F5
+    Role: Text / Primary Foreground
+    Visual Impact: This is your primary choice for code, headers, and body text. Because it is a soft, lavender-tinted off-white instead of a harsh pure white, it looks deeply integrated into the purple aesthetic and is incredibly comfortable to read for long programming sessions.
+
+Layer 4: System Actions & Branding (Focal Points)
+    Hex: #A124FF
+    Role: Primary Accent
+    Visual Impact: This intense, electric violet is your signature brand color. Use it deliberately for active tab highlights, primary action buttons, selection blocks, or matching accents in your logotype text.
+
+Layer 5: High-Alert UI Glow (Interactions & Indicators)
+    Hex: #00F0FF
+    Role: Secondary Neon Accent
+    Visual Impact: A sharp, piercing cyan/aqua. This is your ultimate contrast tool. Use it sparingly for critical UI details: the blinking terminal block cursor, success indicators, progress bars, or active hover states. When placed next to the deep purples, it creates a brilliant, high-performance cyberpunk glow.
