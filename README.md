@@ -36,7 +36,7 @@
       <br />
       <code>Rust</code> <code>ACID KV Store</code> <code>Distributed Servers</code> <code>Railway</code>
       <br /><br />
-      <a href="https://railway.app"><b>Launch Live App ↗</b></a>
+      <a href="https://glassdb-production.up.railway.app/"><b>Launch Live App ↗</b></a>
     </td>
     <!-- HisabKitabPro Card -->
     <td width="50%" valign="top" style="border: 1px solid #1a1d24; border-radius: 12px; padding: 20px; background: #0f1115;">
@@ -45,7 +45,7 @@
       <br />
       <code>Rust</code> <code>Inventory Engine</code> <code>Systems Logic</code> <code>Production App</code>
       <br /><br />
-      <a href="https://hisabkitab.pro"><b>Launch Live App ↗</b></a>
+      <a href="https://sharpsystem.app"><b>Launch Live App ↗</b></a>
     </td>
   </tr>
 </table>
