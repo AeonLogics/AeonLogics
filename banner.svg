@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0f14"/>
+      <stop offset="1" stop-color="#151821"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="200" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="200" rx="14" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="999" height="199" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <rect x="64" y="70" width="3" height="60" rx="1.5" fill="#e8743b"/>
+  <text x="88" y="104" fill="#f2f2f3" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="38" font-weight="600" letter-spacing="1">Aeon Logics</text>
+  <text x="89" y="130" fill="#8b8f99" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="15" letter-spacing="3">FAST, DEPENDABLE SOFTWARE · BUILT IN RUST</text>
+
+  <text x="936" y="112" text-anchor="end" fill="#ffffff" fill-opacity="0.18" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="15">fn main() -&gt; Result&lt;()&gt;</text>
+</svg>
